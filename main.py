@@ -4,7 +4,7 @@ import random;
 import typing;
 import discord;
  
-TOKEN = 'OTQwODQ5ODk0NTEwNDQwNDg5.YgNYvg.mS9UWA4PFCHdJYhPyyTB88feO7k';
+TOKEN = 'OTQwODQ5ODk0NTEwNDQwNDg5.YgNYvg.WO6C1vdR7_2TfNwoEMLIre91MG8';
  
 bot = commands.Bot(command_prefix=('van: '));
 bot.remove_command('help');
